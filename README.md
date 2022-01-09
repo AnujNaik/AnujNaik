@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/AnujNaik/AnujNaik/main/AnujNaikBanner.png "Header")](https://github.com/AnujNaik)
+
+
 ### Hey there! :)
 
 I'm a sophmore at American High School and I love programming and robotics! I have been coding for 5 years and I'm skilled in Python, HTML/CSS/JavaScript, Machine Learning, Data Science, and Flutter App Development. I've published a few websites (Responder and TheCryptoReview) as well as an app for iOS and Android (Instasort) and I love learning more about different coding languages and applications. I'm also interested in public forum debate and the FIRST Tech Challenge, while in my free time, you might find me biking or playing ping-pong.
