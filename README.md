@@ -3,7 +3,7 @@
 
 ### Hey there! :)
 
-I'm a junior at American High School and I love programming and robotics! I have been coding for 5 years and I'm skilled in Python, HTML/CSS/JavaScript, Machine Learning, Data Science, and Flutter App Development. I've published a few websites (Responder and TheCryptoReview) as well as an app for iOS and Android (Instasort) and I love learning more about different coding languages and applications. I'm also interested in public forum debate and the FIRST Tech Challenge, while in my free time, you might find me biking or playing ping-pong.
+I'm a 1st year at Georgia Tech majoring in Computer Engineering and I love programming and robotics! I have been coding for 7 years and I'm skilled in Python, HTML/CSS/JavaScript, Machine Learning, Data Science, and Flutter App Development. I've published a few websites (Responder and TheCryptoReview), an app for iOS and Android (Instasort), and complex path generation and following algorithms for robotic drivetrains. I love learning more about different coding languages and applications.
 
 You can find me on [Facebook][1] or on [LinkedIn][2].
 
