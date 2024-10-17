@@ -1,9 +1,9 @@
 [![Header](https://raw.githubusercontent.com/AnujNaik/AnujNaik/main/AnujNaikBanner.png "Header")](https://github.com/AnujNaik)
 
 
-### Hey there! :)
+### Hey there!
 
-I'm a 1st year at Georgia Tech majoring in Computer Engineering and I love programming and robotics! I have been coding for 7 years and I'm skilled in Python, HTML/CSS/JavaScript, Machine Learning, Data Science, and Flutter App Development. I've published a few websites (Responder and TheCryptoReview), an app for iOS and Android (Instasort), and complex path generation and following algorithms for robotic drivetrains. I love learning more about different coding languages and applications.
+I'm a 1st year at Georgia Tech majoring in Computer Engineering with a minor in AI/ML, and I love programming and robotics! I have been coding for 7 years and I'm skilled in Python, HTML/CSS/JavaScript, Machine Learning, Data Science, and Flutter App Development. I've published a few websites (Responder and TheCryptoReview), an app for iOS and Android (Instasort), and complex path generation and following algorithms for robotic drivetrains. I love learning more about different coding languages and applications.
 
 You can find me on [Instagram][1] or on [LinkedIn][2].
 
