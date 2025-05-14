@@ -1,25 +1,39 @@
 [![Header](https://raw.githubusercontent.com/AnujNaik/AnujNaik/main/AnujNaikBanner.png "Header")](https://github.com/AnujNaik)
 
+# Hey there!
 
-### Hey there!
+I'm Anuj Naik, a 2nd-year Computer Engineering student at Georgia Tech, minoring in AI/ML, with a passion for robotics, computer vision, and intelligent systems. With 8 years of coding experience, I'm proficient in Python, HTML/CSS/JavaScript, C, React, Flutter, and Machine Learning, specializing in applications like computer vision, control systems, and full-stack development.
 
-I'm a 1st year at Georgia Tech majoring in Computer Engineering with a minor in AI/ML, and I love programming and robotics! I have been coding for 7 years and I'm skilled in Python, HTML/CSS/JavaScript, Machine Learning, Data Science, and Flutter App Development. I've published a few websites (Responder and TheCryptoReview), an app for iOS and Android (Instasort), and complex path generation and following algorithms for robotic drivetrains. I love learning more about different coding languages and applications.
+## What I've Built
+- **Robotics & Automation**: Developed *Tinklebot*, a 2nd-place winner at Georgia Tech’s IEEE x Amazon Robotics Hackathon, featuring real-time pathfinding and obstacle avoidance for warehouse delivery.
+- **Autonomous Systems**: Researched active safety for F1Tenth autonomous vehicles, implementing SLAM, localization, and Pure Pursuit controllers using ROS2 and NVIDIA Jetson.
+- **AI & LLMs**: Created *Notesify* for HackGT 11, an AI-powered app converting notes into lecture-style audio using DONUT OCR, GPT-4.0, and BART transformers.
+- **Environmental Tech**: Built the *Automated Waste Sorter* for the City of Fremont, a Raspberry Pi-based robot with 97% accurate waste classification, deployed in six schools, paired with the *Instasort* mobile app.
+- **Web & Mobile Apps**: Published *Responder* and *TheCryptoReview* websites, and *Instasort*, a cross-platform app for iOS and Android.
 
-You can find me on [Instagram][1] or on [LinkedIn][2].
+## Current Interests
+I'm diving deeper into scalable AI platforms, advanced control systems (optimal control, bipedal/humanoid robot control), and embedded systems, with a focus on creating impactful solutions for automation.
 
-[1]: https://www.instagram.com/anujnaik24/
-[2]: https://www.linkedin.com/in/anuj-naik-466554202/
+## What's Next
+I aim to innovate in robotics and AI, developing technologies that solve real-world problems, from autonomous systems to accessible education tools, while continuously expanding my expertise in new languages and frameworks.
+
+## Let's Connect!
+- 📫 [LinkedIn](https://www.linkedin.com/in/anuj-naik)
+- 📸 [Instagram](https://www.instagram.com/anujnaik)
+- 🌐 [Portfolio](https://anujnaik.framer.website/)
+
+I’m always excited to collaborate on new projects or explore cutting-edge tech. Feel free to reach out!
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat)
-![](https://img.shields.io/badge/Code-Machine_Learning-informational?style=flat)
-![](https://img.shields.io/badge/Code-HTML_CSS-informational?style=flat)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat)
+
+| **Category** | **Tools** |
+|--------------|-----------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
+| **Tools & Platforms** | ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?logo=nvidia&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white) |
+| **AI/ML Models** | ![GPT-4](https://img.shields.io/badge/-GPT--4-412991?logo=openai&logoColor=white) ![BART](https://img.shields.io/badge/-BART-FF6F61?logo=facebook&logoColor=white) ![DONUT OCR](https://img.shields.io/badge/-DONUT%20OCR-6B7280) ![AprilTags](https://img.shields.io/badge/-AprilTags-4B0082) |
+| **Other** | ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white) ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white) ![ESP-Now](https://img.shields.io/badge/-ESP--Now-000000?logo=espressif&logoColor=white) ![SLAM](https://img.shields.io/badge/-SLAM-4682B4) ![Pure Pursuit](https://img.shields.io/badge/-Pure%20Pursuit-2E8B57) ![PID Control](https://img.shields.io/badge/-PID%20Control-708090) |
+
 
 ## GitHub Stats
  
