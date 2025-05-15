@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AnujNaik/AnujNaik/main/AnujNaikBanner.png "Header")](https://github.com/AnujNaik)
+[![Header](https://raw.githubusercontent.com/AnujNaik/AnujNaik/main/banner.png "Header")](https://github.com/AnujNaik)
 
 # Hey there!
 
